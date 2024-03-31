@@ -1,53 +1,57 @@
-/* Container styles */
+.aud-tble{
+  background-color: slategrey;
+  height: 100vh;
+  width: 100%;
+}
+
 .container {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-    font-family: Arial, sans-serif;
-  }
-  
-  /* Table styles */
-  table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-top: 20px;
-  }
-  
-  th, td {
-    padding: 15px;
-    text-align: left;
-  }
-  
-  th {
-    background-color: #f2f2f2;
-  }
-  
-  /* Input styles */
-  input[type="text"] {
-    width: 100%;
-    padding: 10px;
-    font-size: 18px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-  }
-  
-  /* Audio player styles */
-  audio {
-    width: 100%;
-  }
-  
-  /* Button styles */
-  button {
-    padding: 15px 20px;
-    background-color: #007bff;
-    color: #fff;
-    border: none;
-    border-radius: 5px;
-    font-size: 18px;
-    cursor: pointer;
-  }
-  
-  button:hover {
-    background-color: #0056b3;
-  }
-  
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0; /* Change background color */
+}
+
+h2 {
+  text-align: center; /* Center align the heading */
+  font-size: 24px; /* Increase font size */
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th, td {
+  padding: 15px;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+audio {
+  width: 100%;
+}
+
+input[type="text"] {
+  width: calc(100% - 32px); /* Adjust input width */
+  padding: 10px;
+  font-size: 16px; /* Adjust font size */
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+input[type="file"] {
+  margin-bottom: 10px;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+tr:hover {
+  background-color: #ddd;
+}

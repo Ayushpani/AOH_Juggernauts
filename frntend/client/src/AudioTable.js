@@ -28,13 +28,11 @@ function AudioTable() {
     }
 
     setAudioFiles(newAudioFiles);
-
-    // Generate random names when files are uploaded
     generateRandomName();
   };
 
   return (
-    <div>
+    <div className='aud-tble'>
       <h2>Upload WAV Files</h2>
       <input type="file" accept="audio/wav" onChange={handleFileUpload} multiple />
 
