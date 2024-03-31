@@ -7,8 +7,8 @@ function AudioTable() {
   const [employee, setEmployee] = useState('');
 
   const generateRandomName = () => {
-    const customers = ['Alice', 'Bob', 'Charlie', 'Diana', 'Ethan', 'Fiona'];
-    const employees = ['George', 'Hannah', 'Isaac', 'Julia', 'Kevin', 'Linda'];
+    const customers = ['Ayush', 'Shivam', 'Krishna', 'Rudra', 'Arjun', 'Abhimanyu'];
+    const employees = ['Unnati', 'Akshata', 'Mansi', 'Divya', 'Ankita', 'Gouri'];
 
     const randomCustomer = customers[Math.floor(Math.random() * customers.length)];
     const randomEmployee = employees[Math.floor(Math.random() * employees.length)];
