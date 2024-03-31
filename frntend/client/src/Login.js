@@ -11,10 +11,10 @@ function Login() {
         <input type="email" placeholder="Email" />
         <input type="password" placeholder="Password" />
         
-        <button type="submit">Login</button>
+        <button type="submit">
+        <Link to='/audiotable'>Login</Link></button>
       </form>
       
-      <p>Don't have an account? <Link to="/register">Register</Link></p>
     </div>
   );
 }

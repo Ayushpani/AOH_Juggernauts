@@ -1,0 +1,13 @@
+Customer (C): Namaste! Kya main customer service se baat kar raha hoon?
+Customer Service Representative (CSR): Haanji, aap bilkul sahi jagah pe hain. Main aapki kaise madad kar sakta hoon?
+C: Dhanyavad! Mera naam Meena hai aur main apne naye phone ke baare mein jaankari chahti hoon.
+CSR: Zaroor, Meena ji. Main aapki poori madad karunga. Aapka naya phone kaunsi company ka hai?
+C: Samsung ka latest model hai.
+CSR: Accha, Samsung ka phone! Bohot achha chunav kiya aapne. Kya aapko kisi khaas feature ke baare mein jaankari chahiye?
+C: Haan, mujhe iske camera ke baare mein jaankari chahiye.
+CSR: Zaroor, Meena ji. Samsung ke is model mein high-resolution camera hai jo aapko vivid aur clear photos click karne ki suvidha deta hai. Kya aur kuch poochna hai?
+C: Nahi, ab mujhe sab kuch samajh mein aagaya hai. Dhanyavad aapki madad ke liye!
+CSR: Koi baat nahi, Meena ji. Mere paas aur bhi kisi prakaar ki suvidha ho toh kabhi bhi mujhse sampark kar sakte hain. Aapka din shubh ho!
+C: Shukriya! Aapka bhi din shubh ho!
+CSR: Namaste.
+C: Namaste

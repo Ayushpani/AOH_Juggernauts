@@ -1,0 +1,13 @@
+Customer (C): Hello!Am I talking to Customer Service?
+Customer Service Representative (Kasar): Hahji, you are at the right place.How can I help you?
+kind regards!My name is Meena and I want information about my new phone.
+Wrust: Sure, Meena G.I will help you all.Which company belongs to your new phone?
+C: Samsung's latest model.
+Well: Okay, Samsung's phone!You made a good choice.Do you need information about a particular feature?
+C: Yes, I need information about its camera.
+CSR: Zaroor, Meena ji.Samsung ke is model mein high-resolution camera hai jo aapko vivid aur clear photo click karne ki suvidha deta hai.Kya aur kuch pochna hai?
+C: No, now I have understood everything.Thanks for your help!
+Wrightened: Never mind, Meena ji.I can contact me at any time.have a nice day!
+C: Thank you!you too have a nice day!
+Wrust: Hello.
+C: Hello
