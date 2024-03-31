@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-image: url('./woman-holding-old-new-phone.jpg');
+  background-repeat: no-repeat;
+  background-size: cover; 
+  background-position: center;
+  height: 100vh;
+}
+
+nav {
+  background-color: rgba(0, 0, 0, 0.5); /* Add transparency to the navbar background */
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 10px;
+}
+
+.logo {
+  font-size: 1.5rem;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+}
+
+.nav-links li {
+  margin-right: 20px;
+}
+
+.nav-links li a {
+  color: #fff;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.nav-links li a:hover {
+  color: #f7b733;
+}
+
+.content {
+  text-align: left;
+  padding: 50px 50px;
+  position: absolute;
+}
+
+h1 {
+  color: #fff; /* Change text color to white */
+}
+
+p {
+  color: #ddd; /* Change text color to light gray */
+  font-size: 1.2rem; /* Increase font size for paragraph */
+  line-height: 1.5;
+}
