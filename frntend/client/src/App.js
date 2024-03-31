@@ -10,15 +10,16 @@ function App() {
           <li><a href="#">Home</a></li>
           <li><a href="About.html">About</a></li>
           <li><a href="/audiotable">Contact</a></li>
-          <li><Link to="/login">Login</Link></li> 
+          <li></li> 
         </ul>
       </nav>
 
       <div className="content">
-        <h1>Pro-Connect</h1>
-        <p>
+        <h1>ProConnect</h1>
+        <p className='paragrph'>
           Our cutting-edge web application employs automated call quality monitoring, leveraging advanced machine learning and speech processing techniques to optimize customer interactions. By providing objective feedback and comprehensive call summaries, we enhance customer satisfaction and drive operational excellence in call center performance.
         </p>
+        <button className='login-btn'><Link to="/login">Login</Link> </button>
       </div>
     </div>
   );

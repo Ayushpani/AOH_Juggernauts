@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background-image: url('./woman-holding-old-new-phone.jpg');
+  background-image: url('woman-holding-old-new-phone.jpg');
   background-repeat: no-repeat;
   background-size: cover; 
   background-position: center;
@@ -15,8 +15,8 @@ nav {
   justify-content: space-between;
   align-items: center;
   padding: 10px 10px;
+  
 }
-
 .logo {
   font-size: 1.5rem;
 }
@@ -42,16 +42,35 @@ nav {
 
 .content {
   text-align: left;
-  padding: 50px 50px;
-  position: absolute;
+  margin-left: 70px;
+  padding-top: 100px;
 }
+
+
 
 h1 {
-  color: #fff; /* Change text color to white */
+  color: #fff;
+  font-size: 100px;
+  /* Change text color to white */
+  margin-bottom: 20px;
 }
 
-p {
+.paragrph {
   color: #ddd; /* Change text color to light gray */
   font-size: 1.2rem; /* Increase font size for paragraph */
   line-height: 1.5;
+  align-items: left;
+  margin-left :0;
+  width: 50%;
+}
+
+.login-btn{
+  background-color: rgb(255, 145, 0);
+  position: absolute;
+  height: 50px;
+  width: 100px;
+  border-radius: 15px;
+  font-size: larger;
+  color:rgba(0, 0, 0);
+  transform: translate(220px,40px);
 }
