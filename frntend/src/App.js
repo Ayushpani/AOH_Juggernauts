@@ -9,8 +9,8 @@ function App() {
         <ul className="nav-links">
           <li><a href="#">Home</a></li>
           <li><a href="About.html">About</a></li>
-          <li><a href="#">Contact</a></li>
-          <li><Link to="/login">Login</Link></li> {/* Link to Login page */}
+          <li><a href="/audiotable">Contact</a></li>
+          <li><Link to="/login">Login</Link></li> 
         </ul>
       </nav>
 
